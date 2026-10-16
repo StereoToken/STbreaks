@@ -1,4 +1,4 @@
 {
-"_base": "https://raw.githubusercontent.com/StereoToken/breaks/main/",
-"breaks": ["funkydrummer1-102.wav", "funkydrummer2-174.wav", "funkydrummer3-174.wav", "think1-114.wav", "think2-174.wav", "think3-174.wav", "think4-174.wav", "think5-76.wav"]
+"_base": "https://raw.githubusercontent.com/StereoToken/STbreaks/main/",
+"STbreaks": ["funkydrummer1-102.wav", "funkydrummer2-174.wav", "funkydrummer3-174.wav", "think1-114.wav", "think2-174.wav", "think3-174.wav", "think4-174.wav", "think5-76.wav"]
 }
